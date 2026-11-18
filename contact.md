@@ -14,11 +14,16 @@ We welcome inquiries from students, researchers, and other interested parties. I
 > (Coming soon)
  -->
 
-# CONTACT INFORMATION
-- Email: chleung@pku.edu.cn 
+## CONTACT INFORMATION
+
+- Email: chleung@pku.edu.cn
+
 - ORCID: [0000-0002-4325-1083](https://orcid.org/0000-0002-4325-1083)
+
 - Web of Science: [AAW-7595-2020](https://www.webofscience.com/wos/author/record/AAW-7595-2020)
+
 - Google Scholar: [Jeremy Leung](https://scholar.google.com/citations?user=pm1ObhgAAAAJ&hl=zh-TW)
+
 - ResearchGate: [Jeremy-Cheuk-Hin-Leung](https://www.researchgate.net/profile/Jeremy-Cheuk-Hin-Leung)
 
 <!-- Scopus: [56122577300](https://www.scopus.com/authid/detail.uri?authorId=56122577300) -->

@@ -11,17 +11,18 @@ published: true
 
 <!-- # Jeremy C.H. Leung's Research Homepage -->
 
+> [About Me](/about_me)
 
-> [About Me]()
+> [Our Research Group](/about_us)
 
-> [Our Research Group]()
-
-> [Research Projects]()
+> [Research Projects](/projects)
 
 > [Publication List](/publications)
 
-> [Conference Presentations]()
+> [Conference Presentations](/conferences)
 
-> [Resources]()
+> [Resources](/resources)
 
 > [Contact](/contact)
+
+
