@@ -25,7 +25,7 @@ Changsha, China
 <br>
 
 
-## PROFESSIONAL EXPERIENCE
+## Professional Experience
 - 2024-Present, Research Associate Professor, College of Meteorology and Oceanography, National University of Defense Technology
 
 - 2019-2024, Research Associate, Guangzhou Institute of Tropical and Marine Meteorology, China Meteorological Administration
@@ -33,7 +33,7 @@ Changsha, China
 <br>
 
 
-## EDUCATION
+## Education
 - 2014-2019, Peking University, PhD in Atmospheric Science
 
 - 2010-2014, The Chinese University of Hong Kong, BSc in Physics 
@@ -127,9 +127,7 @@ Our research are supported by the following research grants:
 <br>
 
 
-## CONTACT / RESEARCH PROFILES
-- Email: chleung@pku.edu.cn 
-
+## Research Profiles
 - ORCID: [0000-0002-4325-1083](https://orcid.org/0000-0002-4325-1083)
 
 - Web of Science: [AAW-7595-2020](https://www.webofscience.com/wos/author/record/AAW-7595-2020)
