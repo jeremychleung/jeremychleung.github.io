@@ -7,7 +7,7 @@ published: true
 # About Me
 
 <body>
-<img src="https://github.com/jeremychleung/o-share/blob/main/gif/002.gif?raw=true" alt="" width="700">
+<img src="https://github.com/jeremychleung/o-share/blob/main/gif/002.gif?raw=true" alt="">
 <br>
 <br>
 </body>
@@ -17,8 +17,12 @@ published: true
 ## Jeremy Cheuk-Hin Leung（梁卓軒）
 
 **Research Associate Professor**
+
 College of Meteorology and Oceanography
+
 National University of Defense Technology
+
+Changsha, China
 
 (More about [our research group](/about_us))
 
@@ -34,11 +38,11 @@ National University of Defense Technology
 
 
 ### RESEARCH INTERESTS
-- Tropical Climate, Madden-Julian Oscillation, Intraseasonal Variability
+- Tropical Climate, Madden-Julian Oscillation, Indo-Pacific Warm Pool
 - Climate Change, Inhomogeneity & Asymmetry
 - Climate & Weather Extremes
-- Weather Predictability & Chaoticity
-- Analysis Tools, Data Science, Causal Inference
+- Tropical Cyclone Predictability
+- Analysis Tools in Atmospheric Science
 
 More about [our research](/projects)
 
@@ -49,12 +53,6 @@ More about [our research](/projects)
 <br>
 <br>
 </body>
- 
-
-### HONORS / AWARDS
-- Core Member of Guangdong Province Introduction of Innovative R&D Team, 2023-2025
-- Meteorological Technology Progress Award (2nd Prize), China Meteorological Society, 2018
-- National Scholarship & Baosteel Scholarship & 1st Prize of Scholarship for Hong Kong, Macau & Taiwan students, Peking University, 2014-2019
 
 
 ### SELECTED PUBLICATIONS
@@ -71,10 +69,16 @@ More publications [here](/publications)
 
 ### RESEARCH FUNDINGS
 My research group and I are supported by the following research grants:
-- **National Natural Science Foundation of China (China):** *On the long-term change in the seasonality of Indo-Pacific Warm Pool and its impacts on the seasonality of tropical intraseasonal oscillation* (PI, Grant# 42405038, 2025–2027)
-- **Guangdong Basic and Applied Basic Research Foundation (China):** *Long-term variability of MJO activity and its impacts on Northwest Pacific tropical cyclones in the past 100 years* (PI, Grant# 2020A1515110275, 2020–2023)
-- **National Natural Science Foundation of China (China):** *Variability of Northern Hemispheric Polar and Arctic Cells and Their Impacts on Mid-High Latitude Climate Anomalies* (Co-I, Grant# 41775067, 2018–2021)
+- **National Natural Science Foundation of China (China):** On the long-term change in the seasonality of Indo-Pacific Warm Pool and its impacts on the seasonality of tropical intraseasonal oscillation (PI, Grant# 42405038, 2025–2027)
+- **Guangdong Basic and Applied Basic Research Foundation (China):** Long-term variability of MJO activity and its impacts on Northwest Pacific tropical cyclones in the past 100 years (PI, Grant# 2020A1515110275, 2020–2023)
+- **National Natural Science Foundation of China (China):** Variability of Northern Hemispheric Polar and Arctic Cells and Their Impacts on Mid-High Latitude Climate Anomalies (Co-I, Grant# 41775067, 2018–2021)
 <!-- - **Guangdong Province Introduction of Innovative R&D Team Project (China):** *R&D on Key Technology in Typhoon Numerical Prediction Model* (Co-PI, Grant# 2019ZT08G669, 2020–2025) -->
+
+
+### HONORS / AWARDS
+- Core Member of Guangdong Province Introduction of Innovative R&D Team, 2023-2025
+- Meteorological Technology Progress Award (2nd Prize), China Meteorological Society, 2018
+- National Scholarship & Baosteel Scholarship & 1st Prize of Scholarship for Hong Kong, Macau & Taiwan students, Peking University, 2014-2019
 
 
 ### PROFESSIONAL SERVICES / ACTIVITIES

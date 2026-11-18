@@ -30,7 +30,9 @@ published: true
 
 ## 2026
 1. Gan, Q.\#, Leung, J. C. H.\#, Dong, W., Yang, Y., Zhao, D., Li, Y.\*, Zhang, R., & Zhang, B.\*. (2026). Beyond Global Mean Temperature: Increasing Asymmetry of Global Warming in Past and Future Climate Change. *npj Climate and Atmospheric Science*. ([Link](https://www.nature.com/articles/s41612-026-01411-x))
+
 2. Liu, J.#, Leung, J. C. H.#, Zhao, D., Xu, D., Huang, H., Zang, Z., Tian, W., Ma, Y., Li, Y.\*, & Zhang, B\*. (2026). Warming Climate Has Lengthened Global Intense Tropical Cyclone Seasons. *Nature Communications* ([Link](https://www.nature.com/articles/s41467-026-74651-3))
+
 3. Zheng, Y.\#, Leung, J. C. H.\#, Li, S.\*, Zhang, B.\*. (2026). Anthropogenic climate change is causing stronger and more extreme Western Pacific Subtropical High. *National Science Review*. ([Link](https://doi.org/10.1093/nsr/nwag497))
 4. Ye, G., Leung, J. C. H.\*, Dong, W.\*, Toumi, R., Xu, J., Li, W., Qian, W., Kong, H., & Zhang, B. (2026). A Reanalysis-Based Global Tropical Cyclone Tracks Dataset for the Twentieth Century (RGTracks-20C). *Earth System Science Data*. ([Link](https://essd.copernicus.org/articles/18/3587/2026/))
 5. Gan, Q., Leung, J. C. H.\*, Dong, W.\*, Shi, J., Wang, L., Li, W., Qian, W., Kong, H., & Zhang, B. (2026). Contrasting Long-Term Trends in Near-Surface and Subsurface Indo-Pacific Warm Pool Volume Seasonality. *Journal of Climate*. ([Link](https://doi.org/10.1175/JCLI-D-25-0334.1))

@@ -7,14 +7,16 @@ published: true
 
 # Contact Us
 
-We welcome inquiries from students, researchers, and other interested parties. If you want to know more about our work and/or explore potential collaboration opportunities, feel free to reach out to us.
+We welcome inquiries from students, researchers, and other interested parties. 
+
+If you want to know more about our work and/or explore potential collaboration opportunities, feel free to reach out to us.
 
 <!-- 
 > [!danger] **OPPORTUNITIES**
 > (Coming soon)
  -->
 
-## CONTACT INFORMATION
+## CONTACT INFORMATION / RESEARCH PROFILES
 
 - Email: chleung@pku.edu.cn
 
