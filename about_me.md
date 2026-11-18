@@ -14,7 +14,7 @@ published: true
 
 <!-- # Jeremy C.H. Leung's Research Homepage -->
 
-## Jeremy Cheuk-Hin Leung（梁卓軒）
+## Jeremy Cheuk-Hin Leung 梁卓軒
 
 **Research Associate Professor**
 
@@ -22,7 +22,7 @@ College of Meteorology and Oceanography, National University of Defense Technolo
 
 Changsha, China
 
-(More about [our research](/about_us))
+<br>
 
 
 ## PROFESSIONAL EXPERIENCE
