@@ -30,11 +30,15 @@ Changsha, China
 
 - 2019-2024, Research Associate, Guangzhou Institute of Tropical and Marine Meteorology, China Meteorological Administration
 
+<br>
+
 
 ## EDUCATION
 - 2014-2019, Peking University, PhD in Atmospheric Science
 
 - 2010-2014, The Chinese University of Hong Kong, BSc in Physics 
+
+<br>
 
 
 ## RESEARCH INTERESTS
@@ -54,6 +58,7 @@ More about [our research](/projects)
 <!-- [[Jeremy research map.png]]  -->
 <body>
 <img src="/media/my-research-map.png" alt="">
+<br>
 <br>
 <br>
 </body>
@@ -76,6 +81,8 @@ More about [our research](/projects)
 
 More publications [here](/publications)
 
+<br>
+
 
 ## RESEARCH FUNDINGS
 Our research are supported by the following research grants:
@@ -87,6 +94,8 @@ Our research are supported by the following research grants:
 - **National Natural Science Foundation of China (China):** Variability of Northern Hemispheric Polar and Arctic Cells and Their Impacts on Mid-High Latitude Climate Anomalies (Co-I, Grant# 41775067, 2018–2021)
 <!-- - **Guangdong Province Introduction of Innovative R&D Team Project (China):** *R&D on Key Technology in Typhoon Numerical Prediction Model* (Co-PI, Grant# 2019ZT08G669, 2020–2025) -->
 
+<br>
+
 
 ## HONORS / AWARDS
 - Core Member of Guangdong Province Introduction of Innovative R&D Team, 2023-2025
@@ -94,6 +103,8 @@ Our research are supported by the following research grants:
 - Meteorological Technology Progress Award (2nd Prize), China Meteorological Society, 2018
 
 - National Scholarship & Baosteel Scholarship & 1st Prize of Scholarship for Hong Kong, Macau & Taiwan students, Peking University, 2014-2019
+
+<br>
 
 
 ## PROFESSIONAL SERVICES / ACTIVITIES
@@ -113,6 +124,8 @@ Our research are supported by the following research grants:
 <!-- - Executive Committee Member, [Hong Kong Association of China Business](https://www.hkacb.org/) -->
 <!-- - Visiting Associate Professor, [Faculty of Data Science, City University of Macau](https://fds.cityu.edu.mo/) -->
 
+<br>
+
 
 ## CONTACT / RESEARCH PROFILES
 - Email: chleung@pku.edu.cn 
@@ -124,5 +137,7 @@ Our research are supported by the following research grants:
 - Google Scholar: [Jeremy Leung](https://scholar.google.com/citations?user=pm1ObhgAAAAJ&hl=zh-TW)
 
 - ResearchGate: [Jeremy-Cheuk-Hin-Leung](https://www.researchgate.net/profile/Jeremy-Cheuk-Hin-Leung)
+
+<br>
 
 

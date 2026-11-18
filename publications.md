@@ -36,6 +36,8 @@ published: true
 
 - Leung, J. C. H., Qian, W.\*, Zhang, P., & Zhang, B.\* (2022). Geopotential-based Multivariate MJO Index: extending RMM-like indices to pre-satellite era. _Climate Dynamics_, 59(1), 609-631. ([Link](https://link.springer.com/article/10.1007/s00382-022-06142-2))
 
+<br>
+
 
 ## 2026
 1. Gan, Q.\#, Leung, J. C. H.\#, Dong, W., Yang, Y., Zhao, D., Li, Y.\*, Zhang, R., & Zhang, B.\*. (2026). Beyond Global Mean Temperature: Increasing Asymmetry of Global Warming in Past and Future Climate Change. *npj Climate and Atmospheric Science*. ([Link](https://www.nature.com/articles/s41612-026-01411-x))
@@ -61,6 +63,8 @@ published: true
 11. Qiang, Q., Shi, J.\*, Liu, Q., Liu, B., Jiang, N., Xu, K., Leung, J. C.-H., Chen, J. (2026). Marine heatwave sustains the overlying record-breaking East Asian atmospheric heatwave in July 2025. *Advances in Atmospheric Sciences*. ([Link](https://doi.org/10.1007/s00376-026-6248-5))
 
 12. Li, H., Kong, H., & Leung, J. C.-H. (2026). A CNN-Based Model with SE Channel Attention for Tropical Cyclone Lifecycle Classification. In 2026 *International Conference on Image, Signal Processing and Pattern Recognition (ISPP)* (pp. 1-6). IEEE. ([Link](https://ieeexplore.ieee.org/abstract/document/11543011))
+
+<br>
 
 
 ## 2025
@@ -90,6 +94,8 @@ published: true
 
 13. Deng, T., Ouyang, S., Chen, X., He, G., Zhang, X., Leung, J. C. H., Wang, Q., X., Zhang, Z., Zou, Y., Mai, B., Liu, L., Dong, X., Wang, T. (2025). Impact of the actinic radiative effect of scattering aerosols on ozone vertical distribution in the Pearl River Delta, China. _Atmospheric Environment_, 121207. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S1352231025001827))
 
+<br>
+
 
 ## 2024
 1. Liu, J.\#, Leung, J. C. H.\#, Tian, W., Huang, H., Xu, D., Li, W., & Zhang, B. (2024). Questioning whether seasonal advance of intense tropical cyclones since the 1980s truly exists. _arXiv_: 2403.00330v3. ([Link](https://arxiv.org/abs/2403.00330))
@@ -114,6 +120,8 @@ published: true
 
 11. Li, M., Chen, J., Dai, G., Tian, Q., Leung, J. C. H., Lin, Q., Zhang, Y. (2024) An Evaluation of Tropical Cyclone Genesis Forecast over the Western North Pacific and the South China Sea from the CMA-TRAMS. _Journal of Tropical Meteorology_. ([Link](https://jtm.itmm.org.cn/article/doi/10.3724/j.1006-8775.2024.003?viewType=citedby-info))
 
+<br>
+
 
 ## 2023
 1. Gan, Q., Leung, J. C. H.\*, Wang, L., & Zhang, B. (2023). Weakening seasonality of Indo-Pacific warm pool size in a warming world since 1950. _Environmental Research Letters_, 18(1), 014024. ([Link](https://iopscience.iop.org/article/10.1088/1748-9326/acabd5/meta))
@@ -132,6 +140,8 @@ published: true
 
 8. Chen, Y., Wang, L., Leung, J. C. H., Xu, D., Chen, J., & Zhang, B. (2023). Systematic diurnal bias of the CMA-MESO model in southern China: Characteristics and correction. _Frontiers in Earth Science_, 11, 1101809. ([Link](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2023.1101809/full))
 
+<br>
+
 
 ## 2022
 1. Leung, J. C. H., Zhang, B.\*, Gan, Q., Wang, L., Qian, W., & Hu, Z. Z. (2022). Differential expansion speeds of Indo-Pacific warm pool and deep convection favoring pool under greenhouse warming. _npj Climate and Atmospheric Science_, 5(1), 97. ([Link](https://www.nature.com/articles/s41612-022-00315-w))
@@ -146,11 +156,15 @@ published: true
 
 6. Ouyang, S., Deng, T., Liu, R., Chen, J., He, G., Leung, J. C. H., ... & Liu, S. C. (2022). Impact of a subtropical high and a typhoon on a severe ozone pollution episode in the Pearl River Delta, China. _Atmospheric Chemistry and Physics_, 22(16), 10751-10767. ([Link](https://acp.copernicus.org/articles/22/10751/2022/acp-22-10751-2022.html))
 
+<br>
+
 
 ## 2021
 1. Qian, W., Ai, Y., Leung, J. C. H., & Zhang, B. (2021). Anomaly-based synoptic analysis and model product application for 2020 summer southern China rainfall events. _Atmospheric Research_, 258, 105631.([Link](https://doi.org/10.1016/j.atmosres.2021.105631))
 
 2. Wang, T., Peng, Y., Zhang, B., Leung, J. C. H., Shi, W. (2021) Move a tropical cyclone with 4D-Var and vortex dynamical initialization in WRF model. *Journal of Tropical Meteorology*. ([Link](https://jtm.itmm.org.cn/article/doi/10.46267/j.1006-8775.2021.018)) 
+
+<br>
 
 
 ## 2020 or earlier
@@ -173,3 +187,5 @@ published: true
 9. Qian, W., Wu, K., & Leung, J. C. H. (2016). Three‐dimensional structure and long‐term trend of heat wave events in western Eurasia revealed with an anomaly‐based approach. _International Journal of Climatology_, 36(13), 4315-4326. ([Link](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.4634))
 
 10. Qian, W., Shan, X., Liang, H., Huang, J., & Leung, C. H. (2014). A generalized beta‐advection model to improve unusual typhoon track prediction by decomposing total flow into climatic and anomalous flows. _Journal of Geophysical Research: Atmospheres_, 119(3), 1097-1117. ([Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013JD020902))
+
+<br>
