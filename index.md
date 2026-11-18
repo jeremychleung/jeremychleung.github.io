@@ -18,7 +18,7 @@ published: true
 
 > [Research Projects]()
 
-> [Publication List]()
+> [Publication List](/publications)
 
 > [Conference Presentations]()
 
