@@ -60,9 +60,9 @@ More about [our research](/projects)
 
 
 ### SELECTED PUBLICATIONS
-- Leung, J. C. H., Zhang, B.\*, Gan, Q., Wang, L., Qian, W., & Hu, Z. Z. (2022). Differential expansion speeds of Indo-Pacific warm pool and deep convection favoring pool under greenhouse warming. _npj Climate and Atmospheric Science_, _5_(1), 97. ([Link](https://www.nature.com/articles/s41612-022-00315-w))
+- Leung, J. C. H., Zhang, B.\*, Gan, Q., Wang, L., Qian, W., & Hu, Z. Z. (2022). Differential expansion speeds of Indo-Pacific warm pool and deep convection favoring pool under greenhouse warming. _npj Climate and Atmospheric Science_. ([Link](https://www.nature.com/articles/s41612-022-00315-w))
 
-- Liu, J.#, Leung, J. C. H.#, Zhao, D., Xu, D., Huang, H., Zang, Z., Tian, W., Ma, Y., Li, Y.\*, & Zhang, B\*. (2026). Warming Climate Has Lengthened Global Intense Tropical Cyclone Seasons. *Nature Communications* ([Link](https://www.nature.com/articles/s41467-026-74651-3))
+- Liu, J.#, Leung, J. C. H.#, Zhao, D., Xu, D., Huang, H., Zang, Z., Tian, W., Ma, Y., Li, Y.\*, & Zhang, B\*. (2026). Warming Climate Has Lengthened Global Intense Tropical Cyclone Seasons. *Nature Communications*. ([Link](https://www.nature.com/articles/s41467-026-74651-3))
 
 - Gan, Q., Leung, J. C. H.\*, Dong, W.\*, Shi, J., Wang, L., Li, W., Qian, W., Kong, H., & Zhang, B. (2026). Contrasting Long-Term Trends in Near-Surface and Subsurface Indo-Pacific Warm Pool Volume Seasonality. *Journal of Climate*. ([Link](https://doi.org/10.1175/JCLI-D-25-0334.1))
 
@@ -98,6 +98,9 @@ Our research are supported by the following research grants:
 
 ### PROFESSIONAL SERVICES / ACTIVITIES
 <!-- - Associate Editor, [Climate Dynamics](https://link.springer.com/journal/382) -->
+
+- Peer-review for journals including *Nature*, *Bulletin of the American Meteorological Society*, *Climate Dynamics*, *Journal of geophysical research - Atmospheres*, *Environmental Research Letters*, *Environmental Research Communications*, *Atmospheric Research*, *International journal of climatology*, *Natural Hazards*, etc.
+
 - Associate Member, [Institute of Physics](https://www.iop.org/)
 
 - Member, [Asia Oceania Geosciences Society](https://www.asiaoceania.org/)

@@ -14,9 +14,9 @@ published: true
 
 > [About Me](/about_me)
 
-> [Our Research Group](/about_us)
+<!-- > [Our Research Group](/about_us) -->
 
-> [Research Projects](/projects)
+> [Our Research](/research)
 
 > [Publication List](/publications)
 
