@@ -1,4 +1,5 @@
 ---
+title: Jeremy C.H. Leung's Research Homepage
 permalink: /
 published: true
 ---
