@@ -41,7 +41,7 @@ Changsha, China
 <br>
 
 
-## RESEARCH INTERESTS
+## Research Interests
 - Tropical Climate, Madden-Julian Oscillation, Indo-Pacific Warm Pool
 
 - Climate Change, Climate Inhomogeneity & Asymmetry
@@ -64,7 +64,7 @@ More about [our research](/projects)
 </body>
 
 
-## SELECTED PUBLICATIONS
+## Selected Publications
 - Leung, J. C. H., Zhang, B.\*, Gan, Q., Wang, L., Qian, W., & Hu, Z. Z. (2022). Differential expansion speeds of Indo-Pacific warm pool and deep convection favoring pool under greenhouse warming. _npj Climate and Atmospheric Science_. ([Link](https://www.nature.com/articles/s41612-022-00315-w))
 
 - Liu, J.#, Leung, J. C. H.#, Zhao, D., Xu, D., Huang, H., Zang, Z., Tian, W., Ma, Y., Li, Y.\*, & Zhang, B\*. (2026). Warming Climate Has Lengthened Global Intense Tropical Cyclone Seasons. *Nature Communications*. ([Link](https://www.nature.com/articles/s41467-026-74651-3))
@@ -84,7 +84,7 @@ More publications [here](/publications)
 <br>
 
 
-## RESEARCH FUNDINGS
+## Research Fundings
 Our research are supported by the following research grants:
 
 - **National Natural Science Foundation of China (China):** On the long-term change in the seasonality of Indo-Pacific Warm Pool and its impacts on the seasonality of tropical intraseasonal oscillation (PI, Grant# 42405038, 2025–2027)
@@ -97,7 +97,7 @@ Our research are supported by the following research grants:
 <br>
 
 
-## HONORS / AWARDS
+## Honors / Awards
 - Core Member of Guangdong Province Introduction of Innovative R&D Team, 2023-2025
 
 - Meteorological Technology Progress Award (2nd Prize), China Meteorological Society, 2018
@@ -107,7 +107,7 @@ Our research are supported by the following research grants:
 <br>
 
 
-## PROFESSIONAL SERVICES / ACTIVITIES
+## Professional Services / Activities
 <!-- - Associate Editor, [Climate Dynamics](https://link.springer.com/journal/382) -->
 
 - Peer-review for journals including *Nature*, *Bulletin of the American Meteorological Society*, *Climate Dynamics*, *Journal of geophysical research - Atmospheres*, *Environmental Research Letters*, *Environmental Research Communications*, *Atmospheric Research*, *International journal of climatology*, *Natural Hazards*, etc.
