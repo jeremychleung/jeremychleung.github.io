@@ -7,8 +7,7 @@ published: true
 
 # Publication List
 
-## FEATURED PUBLICATIONS
-
+## Featured Publications
 **Tropical Climate**
 - Leung, J. C. H., Zhang, B.\*, Gan, Q., Wang, L., Qian, W., & Hu, Z. Z. (2022). Differential expansion speeds of Indo-Pacific warm pool and deep convection favoring pool under greenhouse warming. _npj Climate and Atmospheric Science_, 5(1), 97. ([Link](https://www.nature.com/articles/s41612-022-00315-w))
 
