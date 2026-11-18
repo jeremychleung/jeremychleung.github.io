@@ -8,7 +8,7 @@ published: true
 # Resources
 
 
-## Dateset and code repositories of our research
+## Dateset and Code Repositories of Our Research
 Dataset - [Reanalysis-Based Global Tropical Cyclone Tracks Dataset for the Twentieth Century (RGTracks-20C)](https://github.com/jeremychleung/RGTracks-20C)
 
 Dateset - [Indo-Pacific Deep Convection Favoring Pool](https://github.com/jeremychleung/Indo-Pacific-Deep-Convection-Favoring-Pool)
@@ -22,12 +22,12 @@ Code - [1D-CNN Temporal Filter for Atmospheric and Climate Research](https://git
 <br>
 
 
-## Learning materials
+## Learning Materials
 
 <br>
 
 
-## Useful links (Technical)
+## Useful Links (Technical)
 Madden-Julian Oscillation - [RMM Index](https://www.bom.gov.au/climate/mjo/#tabs=Monitoring) (by BoM)
 
 Madden-Julian Oscillation - [Other MJO Indices](https://psl.noaa.gov/mjo/mjoindex/) (NOAA Physical Sciences Laboratory)
@@ -44,7 +44,7 @@ Tropical cyclone - [IBTrACS (Unofficial portal)](https://ncics.org/ibtracs/index
 
 <br>
 
-## Useful links (Non-technical)
+## Useful Links (Non-technical)
 Complex system - [Chaos Book](https://chaosbook.org/) by P. CvitanoviÄ, R. Artuso, R. Mainieri, G. Tanner and V. Gábor (Covers a wide range of materials on chaos theory including textbooks, courses, tutorials, videos, etc.)
 
 <br>
