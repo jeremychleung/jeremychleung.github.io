@@ -3,11 +3,13 @@ title: Jeremy C.H. Leung's Research Homepage
 description: Welcome to my research homepage
 # ----- theme -----
 # theme: minima
-# --
-# theme: cayman
-# --
-# theme: midnight
-# --
-remote_theme: pages-themes/hacker@v0.2.0
+# -- cayman
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+# --
+# theme: midnight
+# # -- hacker
+# remote_theme: pages-themes/hacker@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
