@@ -8,19 +8,7 @@ published: true
 
 ## About Our Research Group
 
-We are a group of young researchers focusing on:
-
-- Tropical Climate - Indo-Pacific Warm Pool, Madden-Julian Oscillation, Tropical Cyclone, Convection
-
-- Climate Change - Dynamics, Impacts, and Future Projection
-
-- Extreme Weather & Climate Events - Temperature, Rainfall, Typhoon, etc.
-
-- Climate Data Reconstruction
-
-- Numerical Weather Prediction & AI Weather Prediction
-
-- Data Science and Machine Learning Approaches in Atmospheric Science
+We are a group of young researchers focusing on Tropical Climate (Indo-Pacific Warm Pool, Madden-Julian Oscillation, Tropical Cyclone, Convection), Global Climate Change (Dynamics, Impacts, and Future Projection), Extreme Weather & Climate Events (Temperature, Rainfall, Typhoon, Intraseasonal Extremes), Climate Data Reconstruction, Numerical Weather Prediction & AI Weather Prediction, Data Science and Machine Learning Approaches in Atmospheric Science, etc.
 
 Members:
 
@@ -33,12 +21,6 @@ Members:
 - Weijian Luo, Ph.D. Student, Guangdong Ocean University
 
 - Jimin Liu, Ph.D. Student, Lanzhou University
-
-<br>
-
-
-## Research Interests
-
 
 <br>
 
@@ -80,4 +62,5 @@ The above research are supported by:
 
 
 ## Contact Us
-For more information about our research group or to inquire about potential collaboration opportunities, feel free to [contact us](/contact)!
+If you are interested in our research, feel free to [contact us](/contact) for more information! 
+
