@@ -8,7 +8,7 @@ published: true
 
 ## About Our Research Group
 
-We are a group of young researchers focusing on Tropical Climate (Indo-Pacific Warm Pool, Madden-Julian Oscillation, Tropical Cyclone, Convection), Global Climate Change (Dynamics, Impacts, and Future Projection), Extreme Weather & Climate Events (Temperature, Rainfall, Typhoon, Intraseasonal Extremes), Climate Data Reconstruction, Numerical Weather Prediction & AI Weather Prediction, Data Science and Machine Learning Approaches in Atmospheric Science, etc.
+We are a group of young researchers focusing on Tropical Climate (Indo-Pacific Warm Pool, Madden-Julian Oscillation, tropical cyclone, convection), Global Climate Change (variability, impacts, and future projection), Extreme Weather & Climate Events (temperature, rainfall, typhoon, intraseasonal extremes), Climate Data Reconstruction, Numerical Weather Prediction & AI Weather Prediction, Data Science and Machine Learning Approaches in Atmospheric Science, etc.
 
 Members:
 
