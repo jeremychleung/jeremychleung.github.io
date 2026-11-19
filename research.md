@@ -62,5 +62,5 @@ The above research are supported by:
 
 
 ## Contact Us
-If you are interested in our research, feel free to [contact us](/contact) for more information! 
+If you are interested in our research, feel free to [contact us](/contact) for more details~
 
